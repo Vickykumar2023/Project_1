@@ -1,0 +1,207 @@
+@media screen and (max-width: 600px) {
+    .header1{
+        width: auto;
+        height: 50px;
+        margin-left: 7%;
+        margin-right: 7%;
+        background-color: #fff;
+        display: flex;
+        flex-wrap: wrap;
+        border-radius: 10px;
+    
+    }
+    #h1{
+        visibility: hidden;
+    }
+    .icon1{
+        width: 70% ;
+        margin-left: 15%;
+        margin-top: -8.5%;
+        font-size: 25px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        font-size: 30px;
+        
+        
+    }
+    .header2{
+    width: auto;
+    height: 200px;
+    margin-right: 7%;
+    margin-left: 7%;
+    border-radius: 20px;
+    }
+    .header2 p{
+        font-size: 20px;
+        margin-top: 2%;
+        
+    }
+    .header2 img{
+        max-width: 30%;
+        margin-top: 5%;    
+        width: 50%;
+    }
+    
+    .header3{
+        width: 100%;
+        height: 50%;
+        margin-left: 1%;
+        margin-right: 1%;
+        background-color:  #00466d;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    
+    }
+    .image{
+        width: 100%;
+        height: 400px;
+        margin-left: 1%;
+        margin-right: 1%;
+        background-color: rgb(15, 226, 110);
+    }
+    .header4{
+        width: 100%;
+        height: 400px;
+        margin-left: 1%;
+        margin-right: 1%;
+        background-color: blue;
+    }
+    
+    .p1{
+        width: 100%;
+        text-align: center;
+        background-color: #00466d;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between ;
+        margin-left: 1%;
+        margin-right: 1%;
+        margin-top: 2%;
+        /* margin-top: 2%; */
+        flex-direction: column;
+        
+    }
+    .p2{
+        width: 100%;
+        height: auto;
+        margin-top: -1.5%;
+        margin-left: 1%;
+        margin-right: 1%;
+        text-align: center;
+        background-color: #00466d;
+        display: flex;
+        justify-content: space-between ;
+        flex-direction: column;
+        
+    }
+   
+    #cenetr{
+        width: auto;
+        font-size: 13px;
+        background-color: #00466d;
+        margin-left: 7%;
+        margin-right: 7%;
+        margin-top: 52%;
+        color: #fff;
+    }
+    .masterbox{
+        width: auto;
+        height: auto;
+        margin-left: 7%;
+        margin-right: 7%;
+        background-color: #00466d;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+
+    
+    }
+    .masterbox_1{
+        width: 100%;
+        height: auto;
+        margin-left: 1%;
+        margin-right: 1%;
+        background-color: #00466d;
+    }
+    .masterbox_2{
+        width: 100%;
+        margin-left: 1%;
+        height: auto;
+        margin-right: 1%;
+        background-color: #00466d;
+    
+    }
+    .masterbox_3{
+        width: 100%;
+        height: auto;
+        margin-left: 1%;
+        margin-right: 1%;
+        background-color: #00466d;
+    
+    }
+    .footer{
+        width: auto;
+        height: auto;
+        margin-left: 7%;
+        margin-right: 7%;
+        background-color: #00466d;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .footer1{
+        width: 100%;
+        height: auto;
+        background-color:  #00466d;
+    }
+    .footer1 img{
+        margin-left: 40%;
+        max-width: 20%;
+        margin-top: 2%;
+        padding: 0%;
+    }
+    .footer1 p{
+        color: #fff;
+        font-size: 17px;
+        margin-top: 2%;
+    }
+    .footer2{
+        width: 100%;
+        height: auto;
+        margin-left: 1%;
+        margin-right: 1%;
+        background-color:  #00466d;
+    }
+    .footer2 i{
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+    .footer3{
+        width: 100%;
+        height: auto;
+        background-color:  #00466d;
+    }
+    .polocy {
+        width: 50%;
+        height: 40px;
+        margin-top: 2%;
+        margin-left: 20%;
+        text-align: center;
+        background-color: #00466d;
+        display: flex;
+        position: absolute;
+        justify-content: space-between;
+        flex-direction: column;
+    
+    }
+    #return{
+        margin-top: 40%;
+        margin-left: 30%;
+        
+    }
+    
+}
+    
